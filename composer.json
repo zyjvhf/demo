@@ -1,0 +1,14 @@
+{
+    "name": "zyjvhf/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zyjvhf",
+            "email": "784803174@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
